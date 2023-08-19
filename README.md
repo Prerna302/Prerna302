@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prerna Kumari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna302&label=Profile%20views&color=0e75b6&style=flat" alt="prerna302" /> </p>
-//<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
 
 - 📫 How to reach me **kumariprerna2711@gmail.com**
 
